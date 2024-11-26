@@ -12,11 +12,15 @@ Currently, two official plugins are available:
 
 # contributors   
 
-# jesse
-# dev akintola
+Developers
+- jesse
+- dev akintola
 
+Designers
+- Blaze
 
 ## libs
-# lucid react
-# tailwind 
-# react router
+- lucid react
+- tailwind 
+- react router
+- Motion by framer
