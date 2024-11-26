@@ -24,3 +24,4 @@ Designers
 - tailwind 
 - react router
 - Motion by framer
+- react icons
